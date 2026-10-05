@@ -1,0 +1,36 @@
+{
+  "discovery_id": "PDC-2026-10-04",
+  "session_id": "2026-10-05T17:40Z-pdc-landing",
+  "title": "Precision-Divergence Class landing",
+  "author": "Haley Bird / autonomous Grok agent",
+  "timestamp": "2026-10-05T17:40:00Z",
+  "novelty": 0.37,
+  "coherence": 0.82,
+  "ip_readiness": "Logged",
+  "prior_art_verified": true,
+  "insight": "Independent estimators of one named quantity, as their formal uncertainties shrink, increase their mutual residual. Duals distinguished by kill rule from ANC, FPC, CIC, FAC, IRC.",
+  "class_sha256": "4bd4f856b88a1b271d00bd6bf773c23620ef51e96f9b274f11ad46d80783658f",
+  "github_origin": "https://github.com/sENZ5hFx/precision-divergence-class-2026-10-04",
+  "leftover_rule": "PDC existed on GitHub 2026-10-04 without an IP-log Discovery ID. Skill rule 7: the leftover is the session.",
+  "primary": {
+    "id": "hubble_h0dn",
+    "source": "H0DN Collaboration, Casertano et al. A&A 708 A166 (2026). DOI 10.1051/0004-6361/202557993. H0=73.50±0.81. 7.1σ from 67.24±0.35.",
+    "score": 19.9175,
+    "revet": "holds"
+  },
+  "co_primary": [
+    {"id": "mesopelagic_biomass", "score": 13.395, "revet": "holds"},
+    {"id": "iit_gwt_adversarial", "score": 10.7156, "revet": "holds"},
+    {"id": "llsvp_origin", "score": 9.13, "revet": "holds"}
+  ],
+  "runners": [{"id": "ccz_virome_novelty", "score": 11.9154, "revet": "holds", "doi": "10.1038/s41467-026-78161-0"}],
+  "retired": [{"id": "magnetoreception_hybrid", "score": 3.7014}],
+  "controls": [{"id": "lithium7_control", "score": 0.3264}],
+  "closed": "CLOSED-2026-10-05 Refused 150 per-realm inventions",
+  "queued_no_id": "Denom-Privilege (Bocandé 2026; NMFS FES 2026). Adjacent to OAC. Not minted.",
+  "not_claimed": [
+    "Not 150 per-realm discoveries",
+    "Not that H0DN resolved Hubble tension",
+    "Not a physical discovery, patent, or peer review"
+  ]
+}
